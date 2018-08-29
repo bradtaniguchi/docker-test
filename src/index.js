@@ -23,7 +23,7 @@ function translateTodo(todo) {
 
 app.get('/', (req, res) => {
   res.status(200);
-  res.send('hello world! 33');
+  res.send('hello world! 22');
 });
 app.get('/todos', (req, res) => {
   console.log('in todos!!!');
