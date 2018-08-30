@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index",
-    "dev": "nodemon src/index"
+    "dev": "npx nodemon src/index"
   },
   "keywords": [],
   "author": "",
